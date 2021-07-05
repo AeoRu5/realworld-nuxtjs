@@ -91,7 +91,7 @@ export default {
     },
   },
   created() {
-    console.log('this is v0.0.1')
+    console.log('this is version 0.0.1')
   },
   methods: {
     isUndef,
