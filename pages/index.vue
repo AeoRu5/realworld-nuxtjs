@@ -90,6 +90,9 @@ export default {
       return this.$store.state.user.user
     },
   },
+  created() {
+    console.log('v0.0.2')
+  },
   methods: {
     isUndef,
   },
