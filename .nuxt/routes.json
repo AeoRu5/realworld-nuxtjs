@@ -1,0 +1,84 @@
+[
+  {
+    "path": "/",
+    "component": "D:\\\\Project\\\\frontEnd-coding\\\\拉勾教育\\\\part3\\\\Vuex 数据流管理及Vue.js 服务端渲染（SSR）\\\\realworld-nuxtjs\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "children": [
+      {
+        "name": "index",
+        "path": "",
+        "component": "D:\\\\Project\\\\frontEnd-coding\\\\拉勾教育\\\\part3\\\\Vuex 数据流管理及Vue.js 服务端渲染（SSR）\\\\realworld-nuxtjs\\\\pages\\\\index\\\\index.vue",
+        "chunkName": "pages/index/index",
+        "_name": "_72d10fbb"
+      },
+      {
+        "name": "index-article",
+        "path": "article",
+        "component": "D:\\\\Project\\\\frontEnd-coding\\\\拉勾教育\\\\part3\\\\Vuex 数据流管理及Vue.js 服务端渲染（SSR）\\\\realworld-nuxtjs\\\\pages\\\\index\\\\article.vue",
+        "chunkName": "pages/index/article",
+        "children": [
+          {
+            "name": "index-article-components-article-comment",
+            "path": "components/article-comment",
+            "component": "D:\\\\Project\\\\frontEnd-coding\\\\拉勾教育\\\\part3\\\\Vuex 数据流管理及Vue.js 服务端渲染（SSR）\\\\realworld-nuxtjs\\\\pages\\\\index\\\\article\\\\components\\\\article-comment.vue",
+            "chunkName": "pages/index/article/components/article-comment",
+            "_name": "_eac70dba"
+          },
+          {
+            "name": "index-article-components-article-meta",
+            "path": "components/article-meta",
+            "component": "D:\\\\Project\\\\frontEnd-coding\\\\拉勾教育\\\\part3\\\\Vuex 数据流管理及Vue.js 服务端渲染（SSR）\\\\realworld-nuxtjs\\\\pages\\\\index\\\\article\\\\components\\\\article-meta.vue",
+            "chunkName": "pages/index/article/components/article-meta",
+            "_name": "_30a91df1"
+          },
+          {
+            "name": "index-article-slug",
+            "path": ":slug?",
+            "component": "D:\\\\Project\\\\frontEnd-coding\\\\拉勾教育\\\\part3\\\\Vuex 数据流管理及Vue.js 服务端渲染（SSR）\\\\realworld-nuxtjs\\\\pages\\\\index\\\\article\\\\_slug.vue",
+            "chunkName": "pages/index/article/_slug",
+            "_name": "_25b8fe8a"
+          }
+        ],
+        "_name": "_2271f19f"
+      },
+      {
+        "name": "index-login",
+        "path": "login",
+        "component": "D:\\\\Project\\\\frontEnd-coding\\\\拉勾教育\\\\part3\\\\Vuex 数据流管理及Vue.js 服务端渲染（SSR）\\\\realworld-nuxtjs\\\\pages\\\\index\\\\login.vue",
+        "chunkName": "pages/index/login",
+        "_name": "_3c78b2d2"
+      },
+      {
+        "name": "index-mkarticle",
+        "path": "mkarticle",
+        "component": "D:\\\\Project\\\\frontEnd-coding\\\\拉勾教育\\\\part3\\\\Vuex 数据流管理及Vue.js 服务端渲染（SSR）\\\\realworld-nuxtjs\\\\pages\\\\index\\\\mkarticle.vue",
+        "chunkName": "pages/index/mkarticle",
+        "_name": "_6f78d501"
+      },
+      {
+        "name": "index-profile",
+        "path": "profile",
+        "component": "D:\\\\Project\\\\frontEnd-coding\\\\拉勾教育\\\\part3\\\\Vuex 数据流管理及Vue.js 服务端渲染（SSR）\\\\realworld-nuxtjs\\\\pages\\\\index\\\\profile.vue",
+        "chunkName": "pages/index/profile",
+        "children": [
+          {
+            "name": "index-profile-username",
+            "path": ":username?",
+            "component": "D:\\\\Project\\\\frontEnd-coding\\\\拉勾教育\\\\part3\\\\Vuex 数据流管理及Vue.js 服务端渲染（SSR）\\\\realworld-nuxtjs\\\\pages\\\\index\\\\profile\\\\_username.vue",
+            "chunkName": "pages/index/profile/_username",
+            "_name": "_179dbc53"
+          }
+        ],
+        "_name": "_0777c65c"
+      },
+      {
+        "name": "index-setting",
+        "path": "setting",
+        "component": "D:\\\\Project\\\\frontEnd-coding\\\\拉勾教育\\\\part3\\\\Vuex 数据流管理及Vue.js 服务端渲染（SSR）\\\\realworld-nuxtjs\\\\pages\\\\index\\\\setting.vue",
+        "chunkName": "pages/index/setting",
+        "_name": "_2b38140e"
+      }
+    ],
+    "_name": "_218afa32"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/index.js": "pages/index.js",
+    "pages/index/article.js": "pages/index/article.js",
+    "pages/index/article/_slug.js": "pages/index/article/_slug.js",
+    "pages/index/article/components/article-comment.js": "pages/index/article/components/article-comment.js",
+    "pages/index/article/components/article-meta.js": "pages/index/article/components/article-meta.js",
+    "pages/index/index.js": "pages/index/index.js",
+    "pages/index/login.js": "pages/index/login.js",
+    "pages/index/mkarticle.js": "pages/index/mkarticle.js",
+    "pages/index/profile.js": "pages/index/profile.js",
+    "pages/index/profile/_username.js": "pages/index/profile/_username.js",
+    "pages/index/setting.js": "pages/index/setting.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/index.js": "pages/index.js.map",
+    "pages/index/article.js": "pages/index/article.js.map",
+    "pages/index/article/_slug.js": "pages/index/article/_slug.js.map",
+    "pages/index/article/components/article-comment.js": "pages/index/article/components/article-comment.js.map",
+    "pages/index/article/components/article-meta.js": "pages/index/article/components/article-meta.js.map",
+    "pages/index/index.js": "pages/index/index.js.map",
+    "pages/index/login.js": "pages/index/login.js.map",
+    "pages/index/mkarticle.js": "pages/index/mkarticle.js.map",
+    "pages/index/profile.js": "pages/index/profile.js.map",
+    "pages/index/profile/_username.js": "pages/index/profile/_username.js.map",
+    "pages/index/setting.js": "pages/index/setting.js.map",
+    "server.js": "server.js.map"
+  }
+}
